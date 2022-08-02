@@ -1,50 +1,50 @@
 {
   "items": [
     {
-      "img": "../media/1.png",
+      "img": "./media/1.png",
       "name": "Producto 1 ",
       "precio": "110",
       "id": "be225154-881d-4e30-a3e1-6664abe2305e"
     },
     {
-      "img": "../media/2.png",
+      "img": "./media/2.png",
       "name": "Producto 2",
       "precio": "8",
       "id": "bf395e49-a20d-47c7-89eb-e0769333e045"
     },
     {
-      "img": "../media/3.png",
+      "img": "./media/3.png",
       "name": "Producto 3",
       "precio": "550",
       "id": "392a0f80-2e80-41ac-b8ea-03e8cf3ee21f"
     },
     {
-      "img": "../media/4.png",
+      "img": "./media/4.png",
       "name": "Producto 4",
       "precio": "600",
       "id": "b056e0c1-2f8e-41d6-b691-2916518d207b"
     },
     {
       "id": "fbdb4982-3bc5-4056-b85f-3335815d772b",
-      "img": "../media/5.png",
+      "img": "./media/5.png",
       "name": "Producto 5",
       "precio": "60"
     },
     {
       "id": "b076932d-c2be-4b4d-91e9-6b94a183d9ab",
-      "img": "../media/6.png",
+      "img": "./media/6.png",
       "name": "Producto 6",
       "precio": "70"
     },
     {
-      "img": "../media/7.png",
+      "img": "./media/7.png",
       "name": "Producto 7 ",
       "precio": "330",
       "id": "e1e1e359-af72-465a-a8b1-e5c4f28d8fa2"
     },
     {
       "id": "07ca4e60-e488-4a9c-8b12-904ca73ad2de",
-      "img": "../media/8.png",
+      "img": "./media/8.png",
       "name": "Producto 8",
       "precio": "90"
     },
@@ -56,55 +56,55 @@
     },
     {
       "id": "feee3b62-0ac5-458e-9e0f-62c3d4e8753d",
-      "img": "../media/10.png",
+      "img": "./media/10.png",
       "name": "Producto 10",
       "precio": "110"
     },
     {
       "id": "c0f02f11-3488-43ac-9905-5d99d1e1b576",
-      "img": "../media/11.png",
+      "img": "./media/11.png",
       "name": "Producto 11",
       "precio": "130"
     },
     {
       "id": "8f626b24-3995-44b2-bb28-72bac7c5d493",
-      "img": "../media/12.png",
+      "img": "./media/12.png",
       "name": "Producto 12",
       "precio": "140"
     },
     {
       "id": "b4ec8641-3aa7-4851-9547-4e66dfa897b6",
-      "img": "../media/13.png",
+      "img": "./media/13.png",
       "name": "Producto 13",
       "precio": "150"
     },
     {
       "id": "9ced5cd3-93e3-4754-9a81-99fe3cbd9da4",
-      "img": "../media/14.png",
+      "img": "./media/14.png",
       "name": "Producto 14",
       "precio": "160"
     },
     {
       "id": "22aeff38-68b8-4132-91b8-81a6d897b621",
-      "img": "../media/15.png",
+      "img": "./media/15.png",
       "name": "Producto 15",
       "precio": "170"
     },
     {
       "id": "33de5cf8-05dc-437c-a0db-d49a96b7de1d",
-      "img": "../media/16.png",
+      "img": "./media/16.png",
       "name": "Producto 16",
       "precio": "180"
     },
     {
       "id": "98bf96b9-018c-4c5e-b198-201d2d193e39",
-      "img": "../media/17.png",
+      "img": "./media/17.png",
       "name": "XyZ 17",
       "precio": "30"
     },
     {
       "id": "8ecdfda8-fab9-4858-ad70-a5a901a96003",
-      "img": "../media/18.png",
+      "img": "./media/18.png",
       "name": "XyZ 18",
       "precio": "255"
     }
